@@ -44,10 +44,14 @@ profiles:
     url: https://orcid.org/0000-0003-1424-6557
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Phylogenomics
+  - Machine Learning / Deep Learning
+  - R-Programming and -Statistic
+  - Hybridization, Polyploidy, and Asexuality
+  - Integrative Taxonomy
+  - Speciation and Biodiversity
+  - Adaptation to Extreme Climatic Conditions
+  - Red List Mapping of Plant Species
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -165,4 +169,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I previously worked and studied at the Georg August University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry. My research interests cover phylogenomics, morphometrics, integrative taxonomy, and statistical modeling, 🌱 with a particular focus on polyploidy, hybridization, and asexuality in plants. 🔭 Recently, I've been diving into pipeline programming and deep learning approaches.
+
+I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein at uni-jena.de or k.karbstein at ufl.edu.
+
+
