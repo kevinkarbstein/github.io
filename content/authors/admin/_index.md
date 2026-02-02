@@ -60,16 +60,16 @@ interests:
   - Red List Mapping of Plant Species
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Evolutionary Biology (Bioinformatics Focus)
+    institution: University of Goettingen
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2017-12
+    date_end: 2021-10
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Untying Gordian knots: The evolution and biogeography of the large European apomictic polyploid Ranunculus auricomus plant complex_. Supervised by Prof. Dr. Elvira Hörandl. Published 5 papers in Taxon, Ecology and Evolution, Molecular Ecology, and New Phytologist, with summma cum laude.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'http://hdl.handle.net/21.11130/00-1735-0000-0008-5946-6'
   - area: MS Computer Science
     institution: Carnegie Mellon University
     icon: ""
