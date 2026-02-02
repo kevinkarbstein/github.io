@@ -27,8 +27,14 @@ role: PostDoc in Evolutionary Biology & Deep Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Friedrich Schiller University Jena Germany, Florida Museum of Natural History Gainesville USA
-    url: https://www.bio.uni-jena.de/24112/kevin-karbstein, https://www.floridamuseum.ufl.edu/nhdept/post-docs/
+  - name: Friedrich Schiller University Jena, Germany
+  - 
+  - Professorship of Integrative Plant Taxoonomy (Prof. Dr. M. Appelhans)
+    url: https://www.bio.uni-jena.de/24112/kevin-karbstein
+  - name: Florida Museum of Natural History Gainesville, USA
+  -
+  - 
+    url: https://www.floridamuseum.ufl.edu/nhdept/post-docs/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -173,4 +179,4 @@ My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena an
 
 I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I am seeking creative graduate students, phd students and postdocs in evolutionary biology or biodiversity research who want to use machine learning or other computational methods to answer big questions at the intersection of the natural and social sciences. Please [email me](mailto:kevin.karbstein@uni-jena.de) me for more information on current opportunities in the lab of [Integrative Taxonomy in Plants] (mailto:https://www.bio.uni-jena.de/18018/integrative-taxonomie-der-pflanzen) at the FSU Jena. Please fill out this form if you are a student at UF and interested in volunteer positions in my lab.
 
-Download my CV or scroll down for more information.
+Please scroll down for more information.
