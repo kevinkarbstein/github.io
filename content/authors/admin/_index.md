@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:kevin.karbstein@uni-jena.de', 'mailto:k.karbstein@ufl.edu'
+    url: 'mailto:kevin.karbstein@uni-jena.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/kevinkarbstein
