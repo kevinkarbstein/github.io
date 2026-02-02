@@ -27,21 +27,21 @@ role: PostDoc in Evolutionary Biology & Deep Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Friedrich Schiller University Jena, Florida Museum of Natural History
-    url: https://ai.meta.com/
+  - name: Friedrich Schiller University Jena Germany, Florida Museum of Natural History Gainesville USA
+    url: https://www.bio.uni-jena.de/24112/kevin-karbstein, https://www.floridamuseum.ufl.edu/nhdept/post-docs/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:k.karbstein@ufl.edu'
+    url: 'mailto:kevin.karbstein@uni-jena.de', 'mailto:k.karbstein@ufl.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/kevinkarbstein
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=de&user=8ptF0wsAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-1424-6557
 
 interests:
   - Large Language Models
