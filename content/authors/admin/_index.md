@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Kevin
-last_name: Karbstein
+last_name: Dr. rer. nat. Karbstein
 
 # Pronouns (optional)
 pronouns: he/him/his
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PostDoc in Evolutionary Biology & Deep Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: Friedrich Schiller University Jena, Florida Museum of Natural History
     url: https://ai.meta.com/
 
 # Social network links
