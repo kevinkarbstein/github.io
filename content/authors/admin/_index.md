@@ -169,8 +169,10 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I previously worked and studied at the Georg August University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry. My research interests cover phylogenomics, morphometrics, integrative taxonomy, and statistical modeling, 🌱 with a particular focus on polyploidy, hybridization, and asexuality in plants. 🔭 Recently, I've been diving into pipeline programming and deep learning approaches.
+My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I previously worked and studied at the Georg August University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry. My research interests cover phylogenomics, morphometrics, integrative taxonomy, and statistical modeling, with a particular focus on polyploidy, hybridization, and asexuality in plants. Recently, I've been diving into pipeline programming and deep learning approaches.
+
+I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I am seeking creative graduate students, phd students and postdocs in evolutionary biology or biodiversity research who want to use machine learning or other computational methods to answer big questions at the intersection of the natural and social sciences. Please email me for more information on current opportunities in the lab of Integrative Taxonomy in Plants. Please fill out this form if you are a student at UF and interested in volunteer positions in my lab.
 
 I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein at uni-jena.de or k.karbstein at ufl.edu.
 
-
+Download my CV or scroll down for more information.
