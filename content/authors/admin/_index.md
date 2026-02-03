@@ -87,7 +87,7 @@ education:
       Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany.
 
 work:
-  - position: Senior AI Research Scientist
+  - position: Guest Reseaecher
     company_name: Meta AI
     company_url: 'https://ai.meta.com/'
     icon: ''
@@ -95,7 +95,7 @@ work:
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
+  - position: PostDoc
     company_name: OpenAI
     company_url: 'https://openai.com/'
     icon: ''
