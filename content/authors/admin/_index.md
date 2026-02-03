@@ -62,7 +62,7 @@ interests:
 
 education:
   - area: PhD Evolutionary Biology (Bioinformatics Focus)
-    institution: University of Goettingen
+    institution: Georg August University of Goettingen
     icon: ""
     date_start: 2017-12
     date_end: 2021-10
@@ -71,23 +71,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'http://hdl.handle.net/21.11130/00-1735-0000-0008-5946-6'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: Master of Science in Evolution, Ecology, and Systematics
+    institution: Friedrich Schiller University of Jena
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2014-10
+    date_end: 2017-09
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Population genetic, environmental-related, and functional trait variability in Trifolium montanum (mountain clover).
+  - area: Bachelor of Science in Biology
+    institution: Friedrich Schiller University of Jena
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2011-10
+    date_end: 2014-09
     summary: |
-      GPA: 3.9/4.0
-
       Minored in Mathematics. President of AI Club.
 
 work:
