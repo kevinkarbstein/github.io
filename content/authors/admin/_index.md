@@ -52,6 +52,7 @@ profiles:
 interests:
   - Phylogenomics
   - Machine Learning / Deep Learning
+  - Bioinformatics
   - R-Programming and -Statistic
   - Hybridization, Polyploidy, and Asexuality
   - Integrative Taxonomy
