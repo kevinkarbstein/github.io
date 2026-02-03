@@ -84,7 +84,7 @@ education:
     date_start: 2011-10
     date_end: 2014-09
     summary: |
-      Minored in Mathematics. President of AI Club.
+      Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany.
 
 work:
   - position: Senior AI Research Scientist
