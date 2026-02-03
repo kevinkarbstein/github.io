@@ -28,11 +28,11 @@ role: PostDoc in Evolutionary Biology, Bioinformatics & Deep Learning
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Friedrich Schiller University Jena, Germany
-  - name: Institute of Biodiversity, Ecology and Evolution
-  - name: rofessorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+  - institute: Institute of Biodiversity, Ecology and Evolution
+  - name: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - name: Florida Museum of Natural History Gainesville, USA
-  - name: Department of Natural History
+  - institute: Department of Natural History
   - name: Molecular Systematics & Evolutionary Genetics
     url: https://www.floridamuseum.ufl.edu/nhdept/post-docs/
 
