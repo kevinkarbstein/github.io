@@ -29,11 +29,11 @@ role: PostDoc in Evolutionary Biology, Bioinformatics & Deep Learning
 organizations:
   - name: Friedrich Schiller University Jena, Germany
   - institute: Institute of Biodiversity, Ecology and Evolution
-  - name: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+  - institute: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - name: Florida Museum of Natural History Gainesville, USA
   - institute: Department of Natural History
-  - name: Molecular Systematics & Evolutionary Genetics
+  - institute: Molecular Systematics & Evolutionary Genetics
     url: https://www.floridamuseum.ufl.edu/nhdept/post-docs/
 
 # Social network links
