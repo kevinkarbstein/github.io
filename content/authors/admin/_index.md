@@ -77,14 +77,14 @@ education:
     date_start: 2014-10
     date_end: 2017-09
     summary: |
-      Population genetic, environmental-related, and functional trait variability in Trifolium montanum (mountain clover).
+      Thesis on _Population genetic, environmental-related, and functional trait variability in Trifolium montanum (mountain clover)._
   - area: Bachelor of Science in Biology
     institution: Friedrich Schiller University of Jena
     icon: ""
     date_start: 2011-10
     date_end: 2014-09
     summary: |
-      Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany.
+      Thesis _Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany._
 
 work:
   - position: Guest Reseaecher
