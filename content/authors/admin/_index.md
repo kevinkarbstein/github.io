@@ -55,6 +55,7 @@ interests:
   - Bioinformatics
   - R-Programming and -Statistic
   - Hybridization, Polyploidy, and Asexuality
+  - Morphometrics
   - Integrative Taxonomy
   - Speciation and Biodiversity
   - Adaptation to Extreme Climatic Conditions
@@ -88,21 +89,17 @@ education:
 
 work:
   - position: Guest Reseaecher
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+    company_name: Florida Museum of Natural History (FMNH), University of Florida (UF)
+    company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2026-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: PostDoc
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    company_name: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP)
+    company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2025-07
+    date_end: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
