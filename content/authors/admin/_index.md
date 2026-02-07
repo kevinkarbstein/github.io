@@ -33,7 +33,7 @@ organizations:
     url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - name: Florida Museum of Natural History Gainesville, USA
   - institute: Department of Natural History
-  - institute: Molecular Systematics & Evolutionary Genetics
+  - institute: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     url: https://www.floridamuseum.ufl.edu/nhdept/post-docs/
 
 # Social network links
@@ -89,17 +89,28 @@ education:
 
 work:
   - position: Guest Reseaecher
-    company_name: Florida Museum of Natural History (FMNH), University of Florida (UF)
+    institution: Florida Museum of Natural History (FMNH), University of Florida (UF)
+    institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: 2026-01
     date_end: ''
   - position: PostDoc
-    company_name: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP)
+    institution: Florida Museum of Natural History (FMNH), University of Florida (UF)
+    institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+    institution: Supported by DAAD
+    company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
+    icon: ''
+    date_start: 2025-07
+    date_end: '2026-01'
+  - position: PostDoc
+    institution: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP)
+    institution: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
     date_start: 2025-07
     date_end: ''
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
