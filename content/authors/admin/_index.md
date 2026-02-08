@@ -51,9 +51,8 @@ profiles:
 
 interests:
   - Phylogenomics
-  - Machine Learning / Deep Learning
-  - Bioinformatics
-  - R-Programming and -Statistic
+  - Machine Learning / Deep Learning (R, Python)
+  - Bioinformatics, Statistics (R, Python)
   - Hybridization, Polyploidy, and Asexuality
   - Morphometrics
   - Integrative Taxonomy
@@ -73,62 +72,66 @@ education:
       text: 'Read Thesis'
       url: 'http://hdl.handle.net/21.11130/00-1735-0000-0008-5946-6'
   - area: Master of Science in Evolution, Ecology, and Systematics
-    institution: Friedrich Schiller University of Jena
+    institution: Friedrich Schiller University Jena
     icon: ""
     date_start: 2014-10
     date_end: 2017-09
     summary: |
       Thesis on _Population genetic, environmental-related, and functional trait variability in Trifolium montanum (mountain clover)._
   - area: Bachelor of Science in Biology
-    institution: Friedrich Schiller University of Jena
+    institution: Friedrich Schiller University Jena
     icon: ""
     date_start: 2011-10
     date_end: 2014-09
     summary: |
       Thesis _Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany._
 
-work:
+postdoc:
   - position: Guest Reseaecher
-    institution: Florida Museum of Natural History (FMNH), University of Florida (UF)
+    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, USA
     institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: 2026-01
     date_end: ''
   - position: PostDoc
-    institution: Florida Museum of Natural History (FMNH), University of Florida (UF)
+    institution: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany
+    institution: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+    company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
+    icon: ''
+    date_start: 2025-07
+  - position: PostDoc
+    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, USA
     institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     institution: Supported by DAAD
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: 2025-07
     date_end: '2026-01'
-  - position: PostDoc
-    institution: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP)
-    institution: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
-    company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
-    icon: ''
-    date_start: 2025-07
     date_end: ''
+  - position: PostDoc
+    institution: Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany
+    institution: Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
+    icon: ''
+    date_start: 2022-10
+    date_end: '2025-06'
+  - position: Guest Researcher
+    institution: Technical University of Ilmenau, Ilmenau, Germany
+    institution: Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
+    icon: ''
+    date_start: 2022-10
+    date_end: '2025-06'
+  - position: PostDoc
+    institution: Georg-August University Göttingen, Göttingen, Germany
+    institution: Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
+    icon: ''
+    date_start: 2021-10
+    date_end: '2022-09'
+
     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -146,11 +149,6 @@ skills:
         percent: 70
         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
