@@ -173,18 +173,24 @@ awards:
     icon: hero/trophy
     summary: |
       Awarded to highlight publications of high quality, scientific significance, and extensive influence: _Geometric morphometric versus genomic patterns in a large polyploid plant species complex_
+  - title: Travel Grant (Talks & Poster)
+    date: '2024-06'
+    awarder: DAAD (German Academic Exchange Service)
+    icon: hero/currency-dollar
+    summary: |
+      International Botanical Congress (IBC) Madrid, Spain.
   - title: Bernhardt-Rensch Award 2023
     date: '2023-03'
     awarder: Society for Biological Systematics
     icon: hero/trophy
     summary: |
       Young talent award of the Society for Biological Systematics for outstanding achievements in the field of biological systematics.
-  - title: Travel Grants (Talks)
-    date: '2022-09' & '2024-06'
-    awarder: Universitätsbund Göttingen e.V. & DAAD (German Academic Exchange Service)
+  - title: Travel Grant (Talk)
+    date: '2022-09'
+    awarder: Universitätsbund Göttingen e.V.
     icon: hero/currency-dollar
     summary: |
-      German Botanical Society (DBG) Bonn, Germany & International Botanical Congress (IBC) Madrid, Spain.
+      German Botanical Society (DBG) Bonn, Germany.
 
 
 # Memberships.
