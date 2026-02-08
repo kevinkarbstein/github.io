@@ -51,7 +51,7 @@ profiles:
 
 interests:
   - Phylogenomics
-  - Machine Learning / Deep Learning (R, Python)
+  - Machine Learning, Deep Learning (R, Python)
   - Bioinformatics, Statistics (R, Python)
   - Hybridization, Polyploidy, and Asexuality
   - Morphometrics
@@ -88,7 +88,7 @@ education:
 
 postdoc:
   - position: Guest Reseaecher
-    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, USA
+    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
     institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
@@ -101,7 +101,7 @@ postdoc:
     icon: ''
     date_start: 2025-07
   - position: PostDoc
-    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, USA
+    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
     institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     institution: Supported by DAAD
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
@@ -130,24 +130,24 @@ postdoc:
 
     
 
-# Skills
+# Hobbies
 # Add your own SVG icons to `assets/media/icons/`
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Jogging
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: person-simple-run
+      - name: Dog Care
         description: ''
         percent: 70
-        icon: book-open
+        icon: paw-print
 
 
 # Awards.
@@ -155,31 +155,58 @@ postdoc:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: Granted Research Project
+    date: '2025-08'
+    awarder: DFG (German Research Foundation)
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      _Integrative taxon-omics and machine learning to decipher reticulate plant speciation – a proof-of-concept from Thymus (Lamiaceae)_
+  - title: Granted Short-Term PostDoc at FMNH (UF), Gainesville, Florida, USA
+    date: '2025-07'
+    awarder: DAAD (German Academic Exchange Service)
+    icon: hero/currency-dollar
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      _Deciphering reticulate polyploid plant evolution: a whole-genome, morphometric, and deep learning approach_
+  - title: Best Paper Award
+    date: '2025-06'
+    awarder: MDPI Biology
+    icon: hero/trophy
+    summary: |
+      Awarded to highlight publications of high quality, scientific significance, and extensive influence: _Geometric morphometric versus genomic patterns in a large polyploid plant species complex_
+  - title: Bernhardt-Rensch Award 2023
+    date: '2023-03'
+    awarder: Society for Biological Systematics
+    icon: hero/trophy
+    summary: |
+      Young talent award of the Society for Biological Systematics for outstanding achievements in the field of biological systematics.
+  - title: Travel Grants (Talks)
+    date: '2022-09' & '2024-06'
+    awarder: Universitätsbund Göttingen e.V. & DAAD (German Academic Exchange Service)
+    icon: hero/currency-dollar
+    summary: |
+      German Botanical Society (DBG) Bonn, Germany & International Botanical Congress (IBC) Madrid, Spain.
+
+
+# Memberships.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+memberships:
+  - title: Thuringian Botanical Society (TBG)
+    icon: academic-cap
+    summary: |
+      Board Member: Editor of the peer-reviewed journal Haussknechtia: https://thueringische-botanische-gesellschaft.de/publikationen/.
+  - title: German Botanical Society (DBG)
+    icon: academic-cap
+  - title: International Association for Plant Taxonomy (IAPT)
+    icon: academic-cap
+  - title: Botanical Society of America (BSA)
+    icon: academic-cap
 ---
 
+# Biography
 My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I previously worked and studied at the Georg August University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry. My research interests cover phylogenomics, morphometrics, integrative taxonomy, and statistical modeling, with a particular focus on polyploidy, hybridization, and asexuality in plants. Recently, I've been diving into pipeline programming and deep learning approaches.
 
-I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I am seeking creative graduate students, phd students and postdocs in evolutionary biology or biodiversity research who want to use machine learning or other computational methods to answer big questions at the intersection of the natural and social sciences. Please [email me](mailto:kevin.karbstein@uni-jena.de) me for more information on current opportunities in the lab of [Integrative Taxonomy in Plants] (mailto:https://www.bio.uni-jena.de/18018/integrative-taxonomie-der-pflanzen) at the FSU Jena. Please fill out this form if you are a student at UF and interested in volunteer positions in my lab.
+I'm a PostDoc at the Friedrich Schiller University Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I am seeking creative graduate students, phd students and postdocs in evolutionary biology or biodiversity research who want to use machine learning or other computational methods to answer big questions at the intersection of the natural and social sciences. Please [email me](mailto:kevin.karbstein@uni-jena.de) me for more information on current opportunities in the lab of [Integrative Taxonomy in Plants] (mailto:https://www.bio.uni-jena.de/18018/integrative-taxonomie-der-pflanzen) at the FSU Jena. Please fill out this form if you are a student at UF and interested in volunteer positions in my lab.
 
 Please scroll down for more information.
