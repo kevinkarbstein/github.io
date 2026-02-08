@@ -179,6 +179,12 @@ awards:
     icon: hero/currency-dollar
     summary: |
       International Botanical Congress (IBC) Madrid, Spain.
+  - title: Granted Research Project
+    date: '2023-06'
+    awarder: DFG (German Research Foundation), Seed Money for Post-Doc Grant within SPP 1991 Taxon-Omics
+    icon: hero/currency-dollar
+    summary: |
+      Whole Genome Resequencing in _Thymus_
   - title: Bernhardt-Rensch Award 2023
     date: '2023-03'
     awarder: Society for Biological Systematics
