@@ -138,15 +138,15 @@ postdoc:
     items:
       - name: Hiking
         description: ''
-        percent: 80
+        percent: 90
         icon: person-simple-walk
       - name: Jogging
         description: ''
-        percent: 90
+        percent: 70
         icon: person-simple-run
       - name: Dog Care
         description: ''
-        percent: 70
+        percent: 50
         icon: paw-print
 
 
@@ -217,8 +217,8 @@ memberships:
 ---
 
 # Biography
-My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I previously worked and studied at the Georg August University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry. My research interests cover phylogenomics, morphometrics, integrative taxonomy, and statistical modeling, with a particular focus on polyploidy, hybridization, and asexuality in plants. Recently, I've been diving into pipeline programming and deep learning approaches.
+I am an evolutionary biologist and botanist who uses bioinformatic and machine learning methods and tools to study past and present evolutionary processes. My research interests cover phylogenomics, morphometrics, und integrative taxonomy, with a particular focus on polyploidy, hybridization, and asexuality in plants. Recently, I've been diving into pipeline programming and deep learning approaches. My work has been published in internationally renowned journals including _New Phytologist_ and _Trends in Ecology & Evolution_.
 
-I'm a PostDoc at the Friedrich Schiller University Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I am seeking creative graduate students, phd students and postdocs in evolutionary biology or biodiversity research who want to use machine learning or other computational methods to answer big questions at the intersection of the natural and social sciences. Please [email me](mailto:kevin.karbstein@uni-jena.de) me for more information on current opportunities in the lab of [Integrative Taxonomy in Plants] (mailto:https://www.bio.uni-jena.de/18018/integrative-taxonomie-der-pflanzen) at the FSU Jena. Please fill out this form if you are a student at UF and interested in volunteer positions in my lab.
+I'm a PostDoc at the Friedrich Schiller University Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. I am seeking creative graduate students, PhD students, and postdocs interested in using machine learning and other computational approaches to address fundamental questions in evolutionary and biodiversity research. Please [email me](mailto:kevin.karbstein@uni-jena.de) me for more information on current opportunities in the lab of [Integrative Taxonomy in Plants] (mailto:https://www.bio.uni-jena.de/18018/integrative-taxonomie-der-pflanzen) at the FSU Jena.
 
 Please scroll down for more information.
