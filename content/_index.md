@@ -21,7 +21,7 @@ sections:
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        path: 'assets/media/authors/kevinkarbstein.png'
+        photo: 'authors/kevinkarbstein.png'
         size: medium
         shape: circle
   - block: markdown
