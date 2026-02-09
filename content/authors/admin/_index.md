@@ -67,7 +67,7 @@ interests:
 
 education:
   - area: PhD Evolutionary Biology
-    institution: Georg August University of Goettingen
+    institution: Georg August University of Göttingen
     icon: ""
     date_start: '2017-12'
     date_end: '2021-10'
