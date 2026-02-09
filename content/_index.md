@@ -38,7 +38,7 @@ sections:
       title: Hobbies
       username: admin
     design:
-      show_skill_percentage: falss
+      show_skill_percentage: false
   - block: collection
     id: papers
     content:
@@ -46,7 +46,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation
