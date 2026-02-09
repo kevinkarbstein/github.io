@@ -129,7 +129,7 @@ postdoc:
 
     
 
-# Hobbies
+# Skills
 # Add your own SVG icons to `assets/media/icons/`
   - name: Hobbies
     color: '#eeac02'
