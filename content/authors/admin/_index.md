@@ -84,7 +84,6 @@ education:
     summary: |
       Thesis _Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany._
 
-# Experience
 experience:
   - title: Guest Researcher
     company: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
