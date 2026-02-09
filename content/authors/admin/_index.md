@@ -100,6 +100,7 @@ postdoc:
     company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
     date_start: 2025-07
+    date_end: ''
   - position: DAAD PostDoc
     institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
     department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
@@ -107,7 +108,6 @@ postdoc:
     icon: ''
     date_start: 2025-07
     date_end: '2026-01'
-    date_end: ''
   - position: PostDoc
     institution: Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany
     department: Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
