@@ -23,14 +23,18 @@ sections:
     avatar:
       size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
       shape: circle # Options: circle (default), square, rounded
-  - block: resume-experience
+  - block: collection
     id: experience
     content:
       title: Experience
       username: admin
+      text: ''
+      filters:
+        folders:
+          - publication
+      is_education_first: true
     design:
       date_format: 'January 2006'
-      is_education_first: true
   - block: resume-awards
     id: awards
     content:
