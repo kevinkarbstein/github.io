@@ -2,7 +2,6 @@
 title: Experience
 date: 2026-02-09
 type: resume
----
 
 sections:
   - block: resume-experience
