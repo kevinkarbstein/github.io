@@ -2,6 +2,9 @@
 # Display name
 title: Kevin Karbstein
 
+avatar:
+  photo: 'authors/kevinkarbstein.png'
+  
 # Name pronunciation (optional)
 name_pronunciation: ''
 
