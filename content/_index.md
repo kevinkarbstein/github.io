@@ -25,6 +25,7 @@ sections:
       shape: circle # Options: circle (default), square, rounded
   - block: resume-experience
     content:
+      title: Experience
       username: admin
     design:
       date_format: 'January 2006'
