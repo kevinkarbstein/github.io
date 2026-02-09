@@ -3,7 +3,7 @@
 title: Kevin Karbstein
 
 avatar:
-  photo: 'assets/media/authors/kevinkarbstein.png'
+  photo: 'authors/kevinkarbstein.png'
   
 # Name pronunciation (optional)
 name_pronunciation: ''
