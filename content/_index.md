@@ -40,6 +40,7 @@ sections:
     design:
       show_skill_percentage: falss
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ''
