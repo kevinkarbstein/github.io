@@ -43,9 +43,9 @@ profiles:
     url: 'mailto:kevin.karbstein@uni-jena.de'
     label: E-mail Me
   - icon: brands/github
-    url: https://www.bio.uni-jena.de/24112/kevin-karbstein    
+    url: https://github.com/kevinkarbstein    
   - icon: building-library   # generic university / institution icon
-    url: https://github.com/kevinkarbstein
+    url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=de&user=8ptF0wsAAAAJ
   - icon: academicons/orcid
