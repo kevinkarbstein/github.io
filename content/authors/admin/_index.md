@@ -29,11 +29,11 @@ role: PostDoc in Evolutionary Biology, Bioinformatics & Deep Learning
 organizations:
   - name: Friedrich Schiller University Jena, Germany
   - institute: Institute of Biodiversity, Ecology and Evolution
-  - institute: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+  - department: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - name: Florida Museum of Natural History Gainesville, USA
   - institute: Department of Natural History
-  - institute: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+  - department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     url: https://www.floridamuseum.ufl.edu/nhdept/post-docs/
 
 # Social network links
@@ -87,23 +87,22 @@ education:
       Thesis _Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany._
 
 postdoc:
-  - position: Guest Reseaecher
+  - position: Guest Researcher
     institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
-    institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+    department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: 2026-01
     date_end: ''
   - position: PostDoc
     institution: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany
-    institution: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+    department: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
     date_start: 2025-07
-  - position: PostDoc
+  - position: DAAD PostDoc
     institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
-    institution: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
-    institution: Supported by DAAD
+    department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: 2025-07
@@ -111,19 +110,19 @@ postdoc:
     date_end: ''
   - position: PostDoc
     institution: Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany
-    institution: Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
+    department: Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
     icon: ''
     date_start: 2022-10
     date_end: '2025-06'
   - position: Guest Researcher
     institution: Technical University of Ilmenau, Ilmenau, Germany
-    institution: Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
+    department: Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
     icon: ''
     date_start: 2022-10
     date_end: '2025-06'
   - position: PostDoc
     institution: Georg-August University Göttingen, Göttingen, Germany
-    institution: Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
+    department: Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
     icon: ''
     date_start: 2021-10
     date_end: '2022-09'
