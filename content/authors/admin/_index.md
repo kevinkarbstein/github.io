@@ -69,8 +69,8 @@ education:
   - area: PhD Evolutionary Biology
     institution: Georg August University of Göttingen
     icon: ""
-    date_start: '2017-12'
-    date_end: '2021-10'
+    date_start: '2017-12-01'
+    date_end: '2021-10-08'
     summary: |
       Thesis on _Untying Gordian knots: The evolution and biogeography of the large European apomictic polyploid Ranunculus auricomus plant complex_. Supervised by Prof. Dr. Elvira Hörandl. Published 5 papers in Taxon, Ecology and Evolution, Molecular Ecology, and New Phytologist, with summma cum laude.
     button:
@@ -79,15 +79,15 @@ education:
   - area: Master of Science in Evolution, Ecology, and Systematics
     institution: Friedrich Schiller University Jena
     icon: ""
-    date_start: '2014-10'
-    date_end: '2017-09'
+    date_start: '2014-10-01'
+    date_end: '2017-09-30'
     summary: |
       Thesis on _Population genetic, environmental-related, and functional trait variability in Trifolium montanum (mountain clover)._
   - area: Bachelor of Science in Biology
     institution: Friedrich Schiller University Jena
     icon: ""
-    date_start: '2011-10'
-    date_end: '2014-09'
+    date_start: '2011-10-01'
+    date_end: '2014-09-30'
     summary: |
       Thesis _Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany._
 
