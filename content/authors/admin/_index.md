@@ -91,40 +91,40 @@ experience:
     description: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
-    date_start: '2026-01'
+    date_start: '2026-01-09'
     date_end: ''
   - title: PostDoc
     company: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany
     description: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
-    date_start: '2025-07'
+    date_start: '2025-07-01'
     date_end: ''
   - title: DAAD PostDoc
     company: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
     description: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
-    date_start: '2025-07'
-    date_end: '2026-01'
+    date_start: '2025-07-09'
+    date_end: '2026-01-08'
   - title: PostDoc
     company: Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany
     description: Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
     icon: ''
-    date_start: '2022-10'
-    date_end: '2025-06'
+    date_start: '2022-10-01'
+    date_end: '2025-06-30'
   - title: Guest Researcher
     company: Technical University of Ilmenau, Ilmenau, Germany
     description: Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
     icon: ''
-    date_start: '2022-10'
-    date_end: '2025-06'
+    date_start: '2022-10-01'
+    date_end: '2025-06-30'
   - title: PostDoc
     company: Georg-August University Göttingen, Göttingen, Germany
     description: Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
     icon: ''
-    date_start: '2021-11'
-    date_end: '2022-09'
+    date_start: '2021-10-09'
+    date_end: '2022-09-30'
 
     
 
@@ -155,43 +155,43 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Granted Research Project
-    date: '2025-08'
+    date: '2025-08-01'
     awarder: DFG (German Research Foundation)
     icon: hero/currency-dollar
     summary: |
       _Integrative taxon-omics and machine learning to decipher reticulate plant speciation – a proof-of-concept from Thymus (Lamiaceae)_
   - title: Granted Short-Term PostDoc at FMNH (UF), Gainesville, Florida, USA
-    date: '2025-07'
+    date: '2025-07-01'
     awarder: DAAD (German Academic Exchange Service)
     icon: hero/currency-dollar
     summary: |
       _Deciphering reticulate polyploid plant evolution: a whole-genome, morphometric, and deep learning approach_
   - title: Best Paper Award
-    date: '2025-06'
+    date: '2025-06-01'
     awarder: MDPI Biology
     icon: hero/trophy
     summary: |
       Awarded to highlight publications of high quality, scientific significance, and extensive influence: _Geometric morphometric versus genomic patterns in a large polyploid plant species complex_
   - title: Travel Grant (Talks & Poster)
-    date: '2024-06'
+    date: '2024-06-01'
     awarder: DAAD (German Academic Exchange Service)
     icon: hero/currency-dollar
     summary: |
       International Botanical Congress (IBC) Madrid, Spain.
   - title: Granted Research Project
-    date: '2023-06'
+    date: '2023-06-01'
     awarder: DFG (German Research Foundation), Seed Money for Post-Doc Grant within SPP 1991 Taxon-Omics
     icon: hero/currency-dollar
     summary: |
       Whole Genome Resequencing in _Thymus_
   - title: Bernhardt-Rensch Award 2023
-    date: '2023-03'
+    date: '2023-03-01'
     awarder: Society for Biological Systematics
     icon: hero/trophy
     summary: |
       Young talent award of the Society for Biological Systematics for outstanding achievements in the field of biological systematics.
   - title: Travel Grant (Talk)
-    date: '2022-09'
+    date: '2022-09-01'
     awarder: Universitätsbund Göttingen e.V.
     icon: hero/currency-dollar
     summary: |
