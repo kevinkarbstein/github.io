@@ -20,7 +20,7 @@ sections:
     design:
       css_class: hbx-bg-gradient
       avatar:
-        photo: 'authors/admin/profile_kevin_karbstein.jpg'
+        photo: '/assets/media/profile_kevin_karbstein.jpg'
         size: medium
         shape: square
   - block: markdown
