@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc in Evolutionary Biology and Bioinformatics
+role: PostDoc in Evolutionary Biology & AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
   - institute: Institute of Biodiversity, Ecology and Evolution
   - department: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     url: https://www.bio.uni-jena.de/24112/kevin-karbstein
-  - name: Florida Museum of Natural History Gainesville, USA
+  - name: Florida Museum of Natural History, USA
   - institute: Department of Natural History
   - department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     url: https://www.floridamuseum.ufl.edu/nhdept/post-docs/
