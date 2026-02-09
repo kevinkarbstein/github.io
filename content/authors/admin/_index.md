@@ -91,43 +91,49 @@ education:
     summary: |
       Thesis _Genetic and functional trait adaptation of Thymus praecox in the Badlands of Central Germany._
 
-postdoc:
-  - position: Guest Researcher
-    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
-    department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+experience:
+  - title: Guest Researcher
+    company: >
+    Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA -
+    Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: '2026-01'
     date_end: ''
-  - position: PostDoc
-    institution: Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany
-    department: Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+  - title: PostDoc
+    company: >
+    Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany -
+    Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
     date_start: '2025-07'
     date_end: ''
-  - position: DAAD PostDoc
-    institution: Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA
-    department: Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+  - title: DAAD PostDoc
+    company: >
+    Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA -
+    Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: '2025-07'
     date_end: '2026-01'
-  - position: PostDoc
-    institution: Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany
-    department: Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
+  - title: PostDoc
+    company: >
+    Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany -
+    Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
     icon: ''
     date_start: '2022-10'
     date_end: '2025-06'
-  - position: Guest Researcher
-    institution: Technical University of Ilmenau, Ilmenau, Germany
-    department: Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
+  - title: Guest Researcher
+    company: >
+    Technical University of Ilmenau, Ilmenau, Germany -
+    Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
     icon: ''
     date_start: '2022-10'
     date_end: '2025-06'
-  - position: PostDoc
-    institution: Georg-August University Göttingen, Göttingen, Germany
-    department: Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
+  - title: PostDoc
+    coompany: >
+    Georg-August University Göttingen, Göttingen, Germany -
+    Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
     icon: ''
     date_start: '2021-11'
     date_end: '2022-09'
