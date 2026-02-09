@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc in Evolutionary Biology, Bioinformatics & Deep Learning
+role: PostDoc in Evolutionary Biology and Bioinformatics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,10 +42,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kevin.karbstein@uni-jena.de'
     label: E-mail Me
+  - icon: building-library
+    url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - icon: brands/github
     url: https://github.com/kevinkarbstein    
-  - icon: building-library   # generic university / institution icon
-    url: https://www.bio.uni-jena.de/24112/kevin-karbstein
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=de&user=8ptF0wsAAAAJ
   - icon: academicons/orcid
