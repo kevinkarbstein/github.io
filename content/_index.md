@@ -19,11 +19,6 @@ sections:
         interests: ''
     design:
       css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar:
-        photo: 'authors/kevinkarbstein.png'
-        size: medium
-        shape: circle
   - block: markdown
     content:
       title: '📚 My Research'
