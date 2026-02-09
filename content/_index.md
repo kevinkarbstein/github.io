@@ -10,19 +10,19 @@ design:
 
 sections:
   - block: resume-biography-3
-  content:
-    username: admin
-    text: ''
-    headings:
-      about: ''
-      education: ''
-      interests: ''
-  design:
-    css_class: hbx-bg-gradient
-    avatar:
-      photo: 'content/authors/admin/profile_kevin_karbstein.jpg'
-      size: medium
-      shape: square
+    content:
+      username: admin
+      text: ''
+      headings:
+        about: ''
+        education: ''
+        interests: ''
+    design:
+      css_class: hbx-bg-gradient
+      avatar:
+        photo: 'authors/admin/profile_kevin_karbstein.jpg'
+        size: medium
+        shape: square
   - block: markdown
     content:
       title: '📚 My Research'
