@@ -23,14 +23,12 @@ sections:
     avatar:
       size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
       shape: circle # Options: circle (default), square, rounded
- 
   - block: resume-experience
     content:
       username: admin
     design:
       date_format: 'January 2006'
-      is_education_first: false
-
+      is_education_first: true
   - block: resume-awards
     content:
       title: Awards
@@ -41,7 +39,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-
   - block: markdown
     content:
       title: '📚 My Research'
@@ -61,7 +58,7 @@ sections:
       filters:
         folders:
           - publications
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2
