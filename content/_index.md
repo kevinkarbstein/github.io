@@ -10,26 +10,19 @@ design:
 
 sections:
   - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-    design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar:
-        photo: 'assets/media/profile_kevin_karbstein.jpg'
-        size: medium
-        shape: square
+  content:
+    username: admin
+    text: ''
+    headings:
+      about: ''
+      education: ''
+      interests: ''
+  design:
+    css_class: hbx-bg-gradient
+    avatar:
+      photo: 'content/authors/admin/profile_kevin_karbstein.jpg'
+      size: medium
+      shape: square
   - block: markdown
     content:
       title: '📚 My Research'
