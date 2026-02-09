@@ -23,6 +23,26 @@ sections:
     avatar:
       size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
       shape: circle # Options: circle (default), square, rounded
+ 
+sections:
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-skills
+    content:
+      title: Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+
   - block: markdown
     content:
       title: '📚 My Research'
