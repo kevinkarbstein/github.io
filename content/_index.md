@@ -85,13 +85,13 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
- - block: resume-skills
-   id: hobbies
-   content:
-     title: Hobbies
-     username: admin
-   design:
-     show_skill_percentage: false
+  - block: resume-skills
+    id: hobbies
+    content:
+      title: Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
