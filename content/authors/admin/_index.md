@@ -94,46 +94,46 @@ education:
 experience:
   - title: Guest Researcher
     company: >
-    Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA -
-    Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+      Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA -
+      Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: '2026-01'
     date_end: ''
   - title: PostDoc
     company: >
-    Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany -
-    Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
+      Friedrich Schiller University Jena (FSU) & Senckenberg Institute for Plant Form and Function Jena (SIP), Jena, Germany -
+      Professorship of Integrative Plant Taxonomy (Prof. Dr. M. Appelhans)
     company_url: 'https://www.bio.uni-jena.de/24112/kevin-karbstein/'
     icon: ''
     date_start: '2025-07'
     date_end: ''
   - title: DAAD PostDoc
     company: >
-    Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA -
-    Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
+      Florida Museum of Natural History (FMNH) at University of Florida (UF), Gainesville, Florida, USA -
+      Molecular Systematics & Evolutionary Genetics (Prof. Dr. Pamela Soltis)
     company_url: 'https://www.floridamuseum.ufl.edu/nhdept/post-docs/'
     icon: ''
     date_start: '2025-07'
     date_end: '2026-01'
   - title: PostDoc
     company: >
-    Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany -
-    Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
+      Max Planck Institute for Biogeochemistry Jena, Ilmenau, Germany -
+      Biod.AI.versity Observation & Integration (Bio.AI) group (Dr. J. Wäldchen)
     icon: ''
     date_start: '2022-10'
     date_end: '2025-06'
   - title: Guest Researcher
     company: >
-    Technical University of Ilmenau, Ilmenau, Germany -
-    Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
+      Technical University of Ilmenau, Ilmenau, Germany -
+      Data-intensive Systems and Visualization Group (dAI.SY, Prof. Dr. P. Mäder)
     icon: ''
     date_start: '2022-10'
     date_end: '2025-06'
   - title: PostDoc
-    coompany: >
-    Georg-August University Göttingen, Göttingen, Germany -
-    Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
+    company: >
+      Georg-August University Göttingen, Göttingen, Germany -
+      Department of Systematics, Biodiversity and Evolution of Plants with Herbarium (Prof Dr. E. Hörandl)
     icon: ''
     date_start: '2021-11'
     date_end: '2022-09'
