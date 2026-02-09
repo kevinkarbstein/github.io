@@ -27,9 +27,9 @@ sections:
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        path: 'profile_kevin_karbstein.jpg'
+        photo: 'profile_kevin_karbstein.jpg'
         size: medium
-        shape: circle
+        shape: square
   - block: markdown
     content:
       title: '📚 My Research'
