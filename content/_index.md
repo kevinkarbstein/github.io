@@ -32,15 +32,10 @@ sections:
       date_format: 'January 2006'
       is_education_first: true
   - block: resume-awards
+    id: awards
     content:
       title: Awards
       username: admin
-  - block: resume-skills
-    content:
-      title: Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
   - block: collection
     id: papers
     content:
@@ -90,6 +85,13 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+ - block: resume-skills
+   id: hobbies
+   content:
+     title: Hobbies
+     username: admin
+   design:
+     show_skill_percentage: false
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
